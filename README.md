@@ -16,20 +16,6 @@ A full-stack OutSystems web and mobile-ready application that integrates live pa
 
 ---
 
-## 2. Repository Structure
+## 2.Technical Documentation
+* ** https://docs.google.com/document/d/1FMeBSg8sFqKsq7Busc4EDeyvvwu530bWKQ7yKpxsaTE/edit?usp=sharing **
 
-______________________________________________________________________________________________________________________________________________
-+-------------------------------------------------------------------+
-|  End-User Layer: CarPark                                          |
-|  - Interactive Dashboard, Paginated Data Grid, Slide-out Sidebar  |
-+---------------------------------+---------------------------------+
-                                  |
-                 +----------------+----------------+
-                 v                                 v
-+---------------------------------+ +-------------------------------+
-|  Core Services: Carpark_CS      | |  Library: Carpark_UI_Lib      |
-|  - Data Model & Entities        | |  - CarparkMap_Block (GMaps)   |
-|  - Background Sync Timers       | |  - CarparkReviews_Block       |
-|  - data.gov.sg REST Consumer    | |  - ConvertSVY21ToWGS84 (JS)   |
-|  - Server-Side Paginated SQL    | |                               |
-+---------------------------------+ +-------------------------------+
