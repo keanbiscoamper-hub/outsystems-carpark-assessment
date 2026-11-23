@@ -1,6 +1,6 @@
 # Singapore HDB Carpark Availability & Explorer (OutSystems)
 
-A full-stack OutSystems web and mobile-ready application that integrates live parking availability telemetry and static HDB carpark datasets from **data.gov.sg**. Users can locate nearby carparks via GPS, explore real-time lot availability on an interactive Google Map, bookmark favorite carparks, and contribute community driver reviews.
+A full-stack OutSystems web -ready application that integrates live parking availability telemetry and static HDB carpark datasets from **data.gov.sg**. Users can locate nearby carparks via GPS, explore real-time lot availability on an interactive Google Map, and contribute community driver reviews.
 
 ---
 
@@ -17,5 +17,5 @@ A full-stack OutSystems web and mobile-ready application that integrates live pa
 ---
 
 ## 2.Technical Documentation
-* ** https://docs.google.com/document/d/1FMeBSg8sFqKsq7Busc4EDeyvvwu530bWKQ7yKpxsaTE/edit?usp=sharing **
+*  https://docs.google.com/document/d/1FMeBSg8sFqKsq7Busc4EDeyvvwu530bWKQ7yKpxsaTE/edit?usp=sharing 
 
